@@ -47,7 +47,7 @@ Este projeto apresenta a construção de um painel interativo no Power BI para c
   * Total Faturado
   * Total Pago
   * Inadimplência
-  * Diferença (medida DAX)
+  
 * Gráfico de colunas comparando faturamento e pagamentos mês a mês
 
 ---
